@@ -21,6 +21,6 @@
   2. [MRCO](https://github.com/TedMoon99/FinalProject-ShoppingMallService-team4)
      - MBTI만 알아와 코디해줄게!
      - MBTI별 코디 추천 쇼핑몰 어플
-     - 기술 스택 : Library(`glide`), Database(`Firebase FireStore Database` & `Cloud Storage`)
+     - 기술 스택 : Library(`glide`), Database(`Firebase FireStore Database` & `Cloud Storage`), MVVM pattern
      - 개발 기간 : 2024.05 ~ 2024.06
      - 포트폴리오 : [MRCO_.pdf](https://github.com/user-attachments/files/16598146/MRCO_.pdf)

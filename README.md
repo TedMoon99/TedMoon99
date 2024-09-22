@@ -28,7 +28,7 @@
 - ⚡ Computer Science:
   ---
 
-  1. [CodeTree] (https://github.com/TedMoon99/codetree-TILs)
+  1. [CodeTree](https://github.com/TedMoon99/codetree-TILs)
      - 매일 푸는 알고리즘 문제
      - 기본적인 문법 문제
      - 자료구조 문제

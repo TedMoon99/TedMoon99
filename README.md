@@ -1,10 +1,10 @@
-# Intro
-- 👋 Hi, I’m Taejin Moon
-- 👀 I’m interested in `Android app`, `Flutter app`, `iOS app`, Design pattern like MVVM, Repository, Android API, Firebase, FireStore, and good UI/UX
-- 🌱 I’m currently learning How to develop with flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... send email to `mtj1015@naver.com` or `mtj10150@gamil.com`
-- 😄 Pronouns: @TedMoon99
+# Who Am I
+- NAME : TaeJin Moon
+- MAJOR : MATHEMATICS, COMPUTER-ENGINEERING
+- BIRTH : 1999
+- HOBBY : Swimming
+- FIELD OF INTEREST : `Server develop`, `Android app`, `Flutter app`, `iOS app`
+- CONTACT : `mtj1015@naver.com` or `mtj10150@gamil.com`
 
 # 🌱 Tech Stack
 Programming Launguage : <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Java Script-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">

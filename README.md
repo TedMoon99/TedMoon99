@@ -1,4 +1,4 @@
-# Who Am I
+# Who Am I
 
 - NAME : TaeJin Moon
 - MAJOR : MATHEMATICS, COMPUTER-ENGINEERING

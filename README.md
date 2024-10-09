@@ -20,7 +20,7 @@ DB : <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&log
 
 Front-End : <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3 &logoColor=white">
 
-Others : <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+Others : <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/JIRA-F24E1E?style=for-the-badge&logo=JIRA&logoColor=white"> <img src="https://img.shields.io/badge/Slack-F24E1E?style=for-the-badge&logo=Slack&logoColor=white"> 
 
 Background Knowledge : SOLID, OOP, MVVM, MVC, SINGLETON, Algorithm, Data Structure, Computer Structure, Database, ...
 
